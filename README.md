@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prajwol Gautam
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Prajwol Gautam
 ======================================================================================================================================
 
 Full Stack Developer
@@ -6,9 +6,9 @@ Full Stack Developer
 
 PHP | Laravel | Javascript | Vue | React | Node | Database | SQL
 
-* 🌍  I'm based in Kathmandu, Nepal
-* 🖥️  See my portfolio at [Portfolio](http://prajwalgautam.com.np/)
-* ✉️  You can contact me at [prazzolgautam@gmail.com](mailto:prazzolgautam@gmail.com)
+* 🌍  Based in Kathmandu, Nepal
+* 🖥️  Portfolio at [Portfolio](http://prajwalgautam.com.np/)
+* ✉️   Contact me at [prazzolgautam@gmail.com](mailto:prazzolgautam@gmail.com)
 
 ### Skills
 
